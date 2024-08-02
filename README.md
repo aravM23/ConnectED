@@ -42,16 +42,16 @@ python mentormatch.py
 ```
 Input your interests and the script will match you with a suitable mentor based on the data in mentorsLOLweneedafindthisman.csv.
 
-# Contributing
+## Contributing
 Contributions are what make the open-source community such a powerful place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-# Fork the Project
+## Fork the Project
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
-# License
+## License
 Distributed under MIT License
 
-# Other Details
+## Other Details
 (notion)
