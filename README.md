@@ -1,4 +1,4 @@
-#ConnectED: Empowering Student Success
+# ConnectED: Empowering Student Success
 
 ConnectED is a comprehensive application designed to support students in their educational journey by providing tools for financial planning, scholarship discovery, and mentor matching. Leveraging cutting-edge technologies such as natural language processing and linear programming, ConnectED offers students personalized and efficient solutions to overcome the challenges of higher education.
 
@@ -9,26 +9,26 @@ Mentor Matching: Matches students with mentors based on shared interests and exp
 Installation
 To set up the ConnectED application, follow these steps:
 
-###Here's how to clone the repository:
+### Here's how to clone the repository:
 ```
 git clone https://github.com/aravM23/Hackathon1.git
 cd Hackathon1
 ```
-###Here's how to install it
+### Here's how to install it
 ```
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 Each module in ConnectED can be run independently depending on the needs of the user. Here’s how to use each feature:
 
-###Financial Aid Calculator
+### Financial Aid Calculator
 Navigate to the directory containing FinancialAid.py and execute the script:
 ```
 python FinancialAid.py
 ```
 Follow the prompts to input your financial information and receive a detailed breakdown of your financial aid eligibility.
 
-###Tinder Style Scholarship Finder
+### Tinder Style Scholarship Finder
 Run the scholarshipfinder.py script to start scraping scholarship data:
 ```
 python scholarshipfinder.py
@@ -42,16 +42,16 @@ python mentormatch.py
 ```
 Input your interests and the script will match you with a suitable mentor based on the data in mentorsLOLweneedafindthisman.csv.
 
-#Contributing
+# Contributing
 Contributions are what make the open-source community such a powerful place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-#Fork the Project
+# Fork the Project
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
-#License
+# License
 Distributed under MIT License
 
-#Other Details
+# Other Details
 (notion)
