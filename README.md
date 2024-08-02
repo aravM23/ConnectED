@@ -2,12 +2,12 @@
 
 ConnectED is a comprehensive application designed to support students in their educational journey by providing tools for financial planning, scholarship discovery, and mentor matching. Leveraging cutting-edge technologies such as natural language processing and linear programming, ConnectED offers students personalized and efficient solutions to overcome the challenges of higher education.
 
-## Features
-Financial Aid Calculator: Calculates various financial components including Expected Family Contribution (EFC), student and parent contributions, and the total financial aid package.
-Tinder Style Scholarship Finder: Utilizes Scrapy to scrape scholarship information from websites and manages data storage and calendar integration for scholarship deadlines.
-Mentor Matching: Matches students with mentors based on shared interests and expertise, utilizing NLP for keyword extraction and linear programming for optimal matching.
+## Features 
+- Financial Aid Calculator: Calculates various financial components including Expected Family Contribution (EFC), student and parent contributions, and the total financial aid package.
+- Tinder Style Scholarship Finder: Utilizes Scrapy to scrape scholarship information from websites and manages data storage and calendar integration for scholarship deadlines.
+- Mentor Matching: Matches students with mentors based on shared interests and expertise, utilizing NLP for keyword extraction and linear programming for optimal matching.
 
-## Installation
+## Installation 🛠️
 To set up the ConnectED application, follow these steps:
 ### Here's how to clone the repository:
 ```
@@ -18,7 +18,7 @@ cd Hackathon1
 ```
 pip install -r requirements.txt
 ```
-## Usage
+## Usage 💡
 Each module in ConnectED can be run independently depending on the needs of the user. Here’s how to use each feature:
 
 ### Financial Aid Calculator
