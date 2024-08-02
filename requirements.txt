@@ -1,0 +1,9 @@
+nltk
+pywraplp
+scrapy
+pandas
+urllib.parse
+pickle
+os.path
+googleapiclient
+google_auth_oauthlib
