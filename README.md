@@ -9,6 +9,7 @@ Mentor Matching: Matches students with mentors based on shared interests and exp
 Installation
 To set up the ConnectED application, follow these steps:
 
+## Steps to set up
 ### Here's how to clone the repository:
 ```
 git clone https://github.com/aravM23/Hackathon1.git
