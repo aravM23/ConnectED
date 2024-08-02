@@ -6,10 +6,9 @@ ConnectED is a comprehensive application designed to support students in their e
 Financial Aid Calculator: Calculates various financial components including Expected Family Contribution (EFC), student and parent contributions, and the total financial aid package.
 Tinder Style Scholarship Finder: Utilizes Scrapy to scrape scholarship information from websites and manages data storage and calendar integration for scholarship deadlines.
 Mentor Matching: Matches students with mentors based on shared interests and expertise, utilizing NLP for keyword extraction and linear programming for optimal matching.
-Installation
-To set up the ConnectED application, follow these steps:
 
-## Steps to set up
+## Installation
+To set up the ConnectED application, follow these steps:
 ### Here's how to clone the repository:
 ```
 git clone https://github.com/aravM23/Hackathon1.git
