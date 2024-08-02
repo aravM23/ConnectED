@@ -14,7 +14,7 @@ To set up the ConnectED application, follow these steps:
 git clone https://github.com/aravM23/Hackathon1.git
 cd Hackathon1
 ```
-### Here's how to install it
+### Here's how to install it:
 ```
 pip install -r requirements.txt
 ```
@@ -35,7 +35,7 @@ python scholarshipfinder.py
 ```
 This script will scrape data, upload it to Google Sheets, and add relevant deadlines to your Google Calendar.
 
-Mentor Matching
+### Mentor Matching
 Execute mentormatch.py to initiate the mentor matching process:
 ```
 python mentormatch.py
