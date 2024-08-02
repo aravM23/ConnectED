@@ -55,4 +55,4 @@ Contributions are what make the open-source community such a powerful place to l
 Distributed under MIT License
 
 ## Other Details
-[Notion](https://chain-impala-ab1.notion.site/ConnectED-e38477cdc0d64dea989d060dc2fb4c3b?pvs=4)
+**[Notion](https://chain-impala-ab1.notion.site/ConnectED-e38477cdc0d64dea989d060dc2fb4c3b?pvs=4)**
