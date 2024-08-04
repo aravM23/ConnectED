@@ -11,8 +11,8 @@ ConnectED is a comprehensive application designed to support students in their e
 To set up the ConnectED application, follow these steps:
 ### Here's how to clone the repository:
 ```
-git clone https://github.com/aravM23/Hackathon1.git
-cd Hackathon1
+git clone https://github.com/aravM23/ConnectED.git
+cd ConnectED
 ```
 ### Here's how to install it:
 ```
@@ -46,9 +46,9 @@ Input your interests and the script will match you with a suitable mentor based 
 Contributions are what make the open-source community such a powerful place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 ## Fork the Project
-- Create your Feature Branch (git checkout -b feature/AmazingFeature)
-- Commit your Changes (git commit -m 'Add some AmazingFeature')
-- Push to the Branch (git push origin feature/AmazingFeature)
+- Create your Feature Branch (git checkout -b feature/Feature)
+- Commit your Changes (git commit -m 'Add some Feature')
+- Push to the Branch (git push origin feature/Feature)
 - Open a Pull Request
 
 ## License
