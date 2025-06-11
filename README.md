@@ -7,6 +7,9 @@ ConnectED is a comprehensive application designed to support students in their e
 - **Tinder Style Scholarship Finder:** Utilizes Scrapy to scrape scholarship information from websites and manages data storage and calendar integration for scholarship deadlines.
 - **Mentor Matching:** Matches students with mentors based on shared interests and expertise, utilizing NLP for keyword extraction and linear programming for optimal matching.
 
+## The Design 🎨 
+![Mockup](Mockup.png)
+
 ## Installation 🛠️
 To set up the ConnectED application, follow these steps:
 ### Here's how to clone the repository:
