@@ -24,7 +24,7 @@ cd ConnectED
 pip install -r requirements.txt
 ```
 ## Usage 💡
-Each module in ConnectED can be run independently depending on the needs of the user. Here’s how to use each feature:
+Each module in ConnectED can be run independently, depending on the needs of the user. Here’s how to use each feature:
 
 ### Financial Aid Calculator
 Navigate to the directory containing FinancialAid.py and execute the script:
@@ -60,4 +60,4 @@ Contributions are what make the open-source community such a powerful place to l
 Distributed under MIT License
 
 ## Other Details
-The Notion containing our report and feauture breakdown is available **[here!](https://chain-impala-ab1.notion.site/ConnectED-Information-Report-e38477cdc0d64dea989d060dc2fb4c3b?pvs=4)**
+The Notion containing our report and feature breakdown is available **[here!](https://chain-impala-ab1.notion.site/ConnectED-Information-Report-e38477cdc0d64dea989d060dc2fb4c3b?pvs=4)**
