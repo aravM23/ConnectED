@@ -10,6 +10,8 @@ ConnectED is a comprehensive application designed to support students in their e
 ## The Design 🎨 
 ![Mockup](Mockup.png)
 
+The full UI mockup is available **[here!](https://www.figma.com/proto/ghLS2guhHTHzSs6cTC5kCi/Untitled?node-id=1-511&t=hOaYrkqAJSAJqKbR-1)**
+
 ## Installation 🛠️
 To set up the ConnectED application, follow these steps:
 ### Here's how to clone the repository:
