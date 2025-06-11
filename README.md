@@ -1,9 +1,9 @@
 # ConnectED: Empowering Student Success
 
-ConnectED is a comprehensive application designed to support students in their educational journey by providing tools for financial planning, scholarship discovery, and mentor matching. Leveraging cutting-edge technologies such as *natural language processing (NLP)* and *linear programming*, ConnectED offers students personalized and efficient solutions to overcome the challenges of higher education.
+ConnectED is a comprehensive application designed to support students in their educational journey by providing tools for financial planning, scholarship discovery, and mentor matching. Leveraging cutting-edge technologies such as *natural language processing (NLP)* and *linear programming*, ConnectED offers students personalized and efficient solutions to overcome the challenges of higher education. Submitted to EmpowerHacks 2.0.
 
 ## Features 🚀
-- **Financial Aid Calculator:** Calculates various financial components including Expected Family Contribution (EFC), student and parent contributions, and the total financial aid package.
+- **Financial Aid Calculator:** Calculates various financial components, including Expected Family Contribution (EFC), student and parent contributions, and the total financial aid package.
 - **Tinder Style Scholarship Finder:** Utilizes Scrapy to scrape scholarship information from websites and manages data storage and calendar integration for scholarship deadlines.
 - **Mentor Matching:** Matches students with mentors based on shared interests and expertise, utilizing NLP for keyword extraction and linear programming for optimal matching.
 
@@ -60,4 +60,4 @@ Contributions are what make the open-source community such a powerful place to l
 Distributed under MIT License
 
 ## Other Details
-**[Notion](https://chain-impala-ab1.notion.site/ConnectED-Information-Report-e38477cdc0d64dea989d060dc2fb4c3b?pvs=4)**
+The Notion containing our report and feauture breakdown is available **[here!](https://chain-impala-ab1.notion.site/ConnectED-Information-Report-e38477cdc0d64dea989d060dc2fb4c3b?pvs=4)**
